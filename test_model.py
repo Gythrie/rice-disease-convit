@@ -15,4 +15,3 @@ model = model.to(device)
 
 print(next(model.parameters()).device)
 
-
